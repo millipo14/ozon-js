@@ -1,3 +1,4 @@
+
 const cart = () => {
     const cartBtn = document.getElementById('cart')
     const cartModal = document.querySelector('.cart')
