@@ -1,5 +1,7 @@
 import cart from "./modules/cart";
-import second from "./modules/second";
+import catalog from "./modules/catalog";
+import load from "./modules/load";
 
 cart()
-second()
+load()
+catalog()
